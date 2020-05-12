@@ -5,7 +5,7 @@ Several slides of short notes on Quantitative Research ideas, mostly regarding S
 
 See also:
 ***
-(1) https://lnkd.in/gAg7p5S
+(1) Feb 19 slides, https://lnkd.in/gAg7p5S
 
 __Topics:__
 
@@ -15,7 +15,7 @@ __Topics:__
 
 3 Zumbach effect in volatility modeling from microstructure views
 ***
-(2) https://lnkd.in/gSSg4TE
+(2) Feb 29 slides, https://lnkd.in/gSSg4TE
 
 __Topics:__
 
@@ -28,7 +28,7 @@ __Topics:__
 4 Miscellaneous: from Physics to Quant - Hamiltonian Monte Carlo
 
 ***
-(3) https://lnkd.in/gY-zStg
+(3) March 9 slides, https://lnkd.in/gY-zStg
 
 __Topics:__
 
@@ -38,7 +38,7 @@ __Topics:__
 
 3 Particle Filtering in Numerical Option Pricing
 ***
-(4) https://www.linkedin.com/feed/update/urn:li:activity:6653092285737242624/
+(4) April 7 slides, https://www.linkedin.com/feed/update/urn:li:activity:6653092285737242624/
 
 __Topics:__
 
