@@ -4,10 +4,15 @@ Financial Mathematics models in Quantitative Research Strategies
 Several slides of short notes on Quantitative Research ideas, mostly regarding Stochastic Volatility models.
 
 See also:
+
 (1) https://lnkd.in/gAg7p5S
+---
 Topics:
+***
 1 Functional PCA
+
 2 Stochastic Volatility Inspired (SVI) and Ensemble Carr-Pelts(ECP)
+
 3 Zumbach effect in volatility modeling from microstructure views
 
 (2) https://lnkd.in/gSSg4TE
